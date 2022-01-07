@@ -1,7 +1,7 @@
 echo "A12 Flash for OnePlus 7T Pro"
 
 fastboot devices
-fastboot reboot fastboot 
+
 
 @ECHO OFF
 
